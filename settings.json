@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Finla.aternos.me:61176",
+    "ip": "Finla.aternos.me",
     "port": 61176,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
