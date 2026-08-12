@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "Finla.aternos.me:61176",
     "port": 27586,
     "version": "",
     "try-creative": false
